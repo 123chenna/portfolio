@@ -308,3 +308,8 @@ footer {
     flex-direction: column;
   }
 }
+/* TEMP FIX - SHOW CONTENT */
+.section, .card, .hero-left, .hero-right {
+  opacity: 1 !important;
+  transform: none !important;
+}
